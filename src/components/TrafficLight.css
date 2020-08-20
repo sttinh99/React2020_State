@@ -1,0 +1,19 @@
+.red, .orange, .green{
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    opacity: 0.2;
+    margin: 10px
+}
+.green{
+    background-color: green;
+}
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: red;
+}
+.active{
+    opacity: 1;
+}
